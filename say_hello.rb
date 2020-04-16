@@ -1,4 +1,4 @@
-def say_hello("name")
-   say_hello_name
- end
-  puts say hello ("name")
+def say_hello.rb
+  puts "Hello"
+end 
+say_hello
